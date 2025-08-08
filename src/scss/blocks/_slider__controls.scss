@@ -1,0 +1,28 @@
+.slider__controls {
+	display: grid;
+	gap: 15px;
+}
+
+.slider__controls-arrows {
+	display: flex;
+	gap: 5px;
+}
+
+.slider__controls-count {
+	display: flex;
+	column-gap: 6px;
+	justify-content: flex-end;
+	align-items: flex-end;
+
+	color: rgba($color: #fff, $alpha: 0.3);
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 1;
+	text-align: right;
+}
+
+.slider__controls_count-current {
+	font-size: 32px;
+	line-height: 0.75;
+	color: #fff;
+}
