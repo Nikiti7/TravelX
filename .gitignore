@@ -1,1 +1,40 @@
-node_modules
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+public/
+
+# Gulp / Cache
+.cache/
+.tmp/
+gulpfile.js.map
+
+# Sass / SCSS
+.sass-cache/
+*.css.map
+*.scssc
+
+# Webpack
+webpack-stats.json
+/.webpack-cache
+/.pnp
+.pnp.js
+
+# VSCode / IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
