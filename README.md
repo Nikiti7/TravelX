@@ -6,9 +6,9 @@
 
 [https://nikiti7.github.io/TravelX/](https://nikiti7.github.io/TravelX/)
 
-## Скриншоты
+## Главный экран
 
-![Главный экран](docs\img\screenshots/main.png)
+![Главный экран](docs/img/screenshots/main.webp)
 
 ## Функциональность
 
@@ -58,7 +58,7 @@ gulp docs
 
 ## Структура проекта TravelX
 
-```
+```bash
 TravelX/
 ├── docs/        # Деплой проекта
 ├── galp/        # Настройки galp
